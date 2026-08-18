@@ -1,12 +1,11 @@
 .venv/
 __pycache__/
 *.pyc
-*.mov
-*.mp4
-*.ply
 data/
 splat_test/
 splat_chair/
+*.mov
 *.mp4
+*.ply
 *.png
 *.pt
