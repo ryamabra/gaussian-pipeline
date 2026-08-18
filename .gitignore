@@ -5,3 +5,8 @@ __pycache__/
 *.mp4
 *.ply
 data/
+splat_test/
+splat_chair/
+*.mp4
+*.png
+*.pt
